@@ -4,6 +4,12 @@
 	ba  = branch -a
 	rv  = remote -v
 [user]
+	name  = "Blake Hawkins"
 	email = blake.hawkins@metaswitch.com
 [rerere]
 	enabled = true
+[push]
+	default = simple
+[core]
+	editor = vim
+

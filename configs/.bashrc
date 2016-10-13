@@ -48,3 +48,6 @@ PATH="/c/Users/bdh/AppData/Roaming/npm/":$PATH
 # Gems.
 PATH="~/.gem/ruby/2.3.0/bin":$PATH
 
+# Splunk.
+alias splunk="/opt/splunk/bin/splunk"
+
