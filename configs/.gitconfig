@@ -1,0 +1,9 @@
+[alias]
+	st  = status
+	dif = diff
+	ba  = branch -a
+	rv  = remote -v
+[user]
+	email = blake.hawkins@metaswitch.com
+[rerere]
+	enabled = true
