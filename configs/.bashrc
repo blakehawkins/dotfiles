@@ -44,6 +44,7 @@ PATH="/c/Program Files/nodejs/":$PATH
 
 # Node modules.
 PATH="/c/Users/bdh/AppData/Roaming/npm/":$PATH
+PATH="/usr/lib/node_modules":$PATH
 
 # Gems.
 PATH="~/.gem/ruby/2.3.0/bin":$PATH
