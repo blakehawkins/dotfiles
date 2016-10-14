@@ -1,0 +1,10 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "git.enabled":                  false,
+    "editor.rulers":                [80],
+    "files.trimTrailingWhitespace": true,
+    "files.exclude": {
+        "**/*.pyc": true,
+        "**/_python_env": true
+    }
+}
