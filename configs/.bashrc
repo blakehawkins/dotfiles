@@ -52,3 +52,6 @@ PATH="~/.gem/ruby/2.3.0/bin":$PATH
 # Splunk.
 alias splunk="/opt/splunk/bin/splunk"
 
+# VirtualBox
+alias vboxman="/c/Program\ Files/Oracle/VirtualBox/VBoxManage.exe"
+
