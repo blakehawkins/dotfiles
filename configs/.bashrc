@@ -55,3 +55,6 @@ alias splunk="/opt/splunk/bin/splunk"
 # VirtualBox
 alias vboxman="/c/Program\ Files/Oracle/VirtualBox/VBoxManage.exe"
 
+# Put all commands from all terminals into a unified history.
+export PROMPT_COMMAND='history -a'
+
