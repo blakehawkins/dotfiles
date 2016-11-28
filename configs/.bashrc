@@ -31,7 +31,7 @@ ssh-add ~/.ssh/bdh_gitlab 2> /dev/null
 export HISTTIMEFORMAT='%F %T '
 
 # texlive in PATH.
-PATH=/c/texlive/2016/bin/win32:$PATH
+PATH=/usr/local/texlive/2016/bin/x86_64-linux:$PATH
 
 # rustup in PATH.
 PATH=/c/Users/bdh/.cargo/bin:$PATH
