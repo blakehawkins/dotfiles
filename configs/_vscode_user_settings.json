@@ -1,10 +1,14 @@
 // Place your settings in this file to overwrite the default settings
 {
-    "git.enabled":                  false,
-    "editor.rulers":                [80],
+    "git.enabled": false,
+    "editor.rulers": [80],
+    "files.eol": "\n",
     "files.trimTrailingWhitespace": true,
-    "files.exclude": {
-        "**/*.pyc": true,
-        "**/_python_env": true
-    }
+    "editor.renderWhitespace": "boundary",
+    "window.zoomLevel": 0,
+    "typescript.check.tscVersion": false,
+    "editor.wordWrap": "off",
+    "editor.minimap.enabled": true,
+    "editor.minimap.renderCharacters": false
 }
+
