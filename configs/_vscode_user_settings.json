@@ -1,14 +1,15 @@
-// Place your settings in this file to overwrite the default settings
 {
-    "git.enabled": false,
-    "editor.rulers": [80],
-    "files.eol": "\n",
     "files.trimTrailingWhitespace": true,
-    "editor.renderWhitespace": "boundary",
+    "telemetry.enableTelemetry": false,
+    "git.ignoreMissingGitWarning": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "extensions.ignoreRecommendations": true,
     "window.zoomLevel": 0,
-    "typescript.check.tscVersion": false,
-    "editor.wordWrap": "off",
-    "editor.minimap.enabled": true,
-    "editor.minimap.renderCharacters": false
+    "editor.renderWhitespace": "boundary",
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "files.eol": "\n",
+    "workbench.iconTheme": "vscode-icons"
 }
-
