@@ -1,12 +1,14 @@
 [alias]
 	st = status
-	dif = diff
 	b = branch
-	rv = remote -v
 	ba = branch -a
+	dif = diff
+	rv = remote -v
+	comit = commit
+	pul = pull
 [rerere]
-	enabled = true
+       enabled = true
 [core]
-	editor = vim
+       editor = vim
 [color]
-	diff = auto
+       diff = auto
