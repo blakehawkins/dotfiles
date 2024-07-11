@@ -1,6 +1,3 @@
-A WSL-friendly dotfiles repo without symlinks or bash `source`.
-
-
 # Usage
 
 The worfklow for this dotfiles repo is based on merging and then replacing existing dotfiles:
@@ -9,6 +6,5 @@ The worfklow for this dotfiles repo is based on merging and then replacing exist
 * `git diff` to see if your live dotfiles have anything worth saving.
     - If `diff` reveals something new worth saving, STOP!
       You must manually merge and commit before proceeding.
-* `git reset --hard` to throw away any undesired behavior from live dotfiles.
 * WARNING: This cannot be undone.
   `./use_repo_dotfiles.sh` to overwrite your live dotfiles with those in this repo.
